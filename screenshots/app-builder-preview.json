@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SEAMS · RNSIT CSE",
+      "hasCanvas": false,
+      "bodyTextLen": 918,
+      "bodyTextHash": "4dee5ff0f1d34ba61110b459204216d55728e6a7bcb276d7f3a818c66beb0a14",
+      "bodyTextPrefix": "S SEAMS RNSIT · CSE Sign in RNS INSTITUTE OF TECHNOLOGY, BENGALU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SEAMS · RNSIT CSE",
+      "hasCanvas": false,
+      "bodyTextLen": 918,
+      "bodyTextHash": "4dee5ff0f1d34ba61110b459204216d55728e6a7bcb276d7f3a818c66beb0a14",
+      "bodyTextPrefix": "S SEAMS RNSIT · CSE Sign in RNS INSTITUTE OF TECHNOLOGY, BENGALU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
